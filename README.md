@@ -1,3 +1,5 @@
-# E-commerce Back End Starter Code
+
 # ORM-E-Commerce-Site
- Configure a working Express.js API to use Sequelize to interact with a MySQL database.
+
+# Description
+This online retail platform empowers users to manage a dynamic record of distinct categories, products, and tags linked to their merchandise through a MySQL database. Insomnia is employed to showcase the backend data. The technologies involved include MYSQL, Node, Express, Sequelize, and VsCode.
